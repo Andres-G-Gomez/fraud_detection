@@ -1,0 +1,10 @@
+pyspark==4.1.2
+torch==2.12.0
+torch-geometric==2.7.0
+mlflow==3.13.0
+pandas
+scikit-learn
+numpy
+pyarrow
+fastapi
+uvicorn

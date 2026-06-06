@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# model weights
+mlruns/
+
+# unprocessed data
+data/raw/
