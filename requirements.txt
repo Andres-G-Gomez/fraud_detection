@@ -8,3 +8,6 @@ numpy
 pyarrow
 fastapi
 uvicorn
+crewai
+langchain-google-genai
+python-dotenv
