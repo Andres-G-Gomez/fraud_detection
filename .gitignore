@@ -219,6 +219,7 @@ __marimo__/
 
 # model weights
 mlruns/
+models/
 
 # unprocessed data
 data/raw/
